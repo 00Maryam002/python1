@@ -1,0 +1,1 @@
+This program is a simple image zoom tool built using Tkinter and PIL in Python. It allows users to select an image and set a zoom factor, enabling them to view a zoomed-in section of the image as they move the mouse over it. The original and zoomed images are displayed side by side for easy comparison. The tool is user-friendly, providing clear instructions for operation.
